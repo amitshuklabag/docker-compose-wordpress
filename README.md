@@ -1,4 +1,4 @@
-# Metabase docker compose demo CI/CD pipeline
+# WORDPRESS + MySQL + PhpMyAdmin docker compose demo CI/CD pipeline
 
 
 <a href="https://dash.elest.io/deploy?source=cicd&social=dockerCompose&url=https://github.com/amitshuklabag/docker-compose-wordpress"><img src="deploy-on-elestio.png" alt="Deploy on Elest.io" width="180px" /></a>
