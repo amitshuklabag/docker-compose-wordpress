@@ -10,7 +10,7 @@ ports:
     password: ""
   - protocol: "HTTPS"
     targetProtocol: "HTTP"
-    listeningPort: "443"
+    listeningPort: "24580"
     targetPort: "24581"
     public: true
     path: "/"
